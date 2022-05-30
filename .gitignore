@@ -1,4 +1,3 @@
 node_modules
 app/model/db.js
-.env
 package-lock.json
